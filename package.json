@@ -1,5 +1,5 @@
 {
-  "name": "contactbook-backend",
+  "name": "Khiemb1913238",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -7,7 +7,7 @@
     "start": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Thanh Tung",
+  "author": "Hoang Khiem",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
